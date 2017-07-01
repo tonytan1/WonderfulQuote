@@ -1,6 +1,6 @@
 # vue-cli
 
-> A quotes add/delete project implement by Vue.JS
+> A quotes One-Page-Application implement by Vue.JS
 
 ## Build Setup
 
